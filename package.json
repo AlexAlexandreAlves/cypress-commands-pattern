@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "setup:cypress": "npm install && npx cypress install && npx cypress verify && npx cypress install-browsers"
+    "setup:cypress": "npm install && npx cypress install"
   },
   "devDependencies": {
     "cypress": "^15.0.0"
